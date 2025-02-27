@@ -1,7 +1,7 @@
 # Andi Nugroho 3D Portfolio
 
-[![Andi-Nugroho 3D Portfolio](https://img.shields.io/static/v1?label=Deri-Kurniawan&message=3d-portfolio&color=blue&logo=github)](https://github.com/Deri-Kurniawan/3d-portfolio "Go to GitHub repo") [![stars - 3D Portfolio](https://img.shields.io/github/stars/Deri-Kurniawan/3d-portfolio?style=social)](https://github.com/Deri-Kurniawan/3d-portfolio)
-[![forks - 3D Portfolio](https://img.shields.io/github/forks/Deri-Kurniawan/3d-portfolio?style=social)](https://github.com/Deri-Kurniawan/3d-portfolio) [![License](https://img.shields.io/badge/License-MIT-blue)](#license) [![issues - 3D Portfolio](https://img.shields.io/github/issues/Deri-Kurniawan/3d-portfolio)](https://github.com/Deri-Kurniawan/3d-portfolio/issues)
+[![Andi-Nugroho 3D Portfolio](https://img.shields.io/static/v1?label=Andi-Nugroho&message=3d-portfolio&color=blue&logo=github)](https://github.com/nerdnomerch/me "Go to GitHub repo") [![stars - 3D Portfolio](https://img.shields.io/github/stars/nerdnomerch/me?style=social)](https://github.com/nerdnomerch/me)
+[![forks - 3D Portfolio](https://img.shields.io/github/forks/nerdnomerch/me?style=social)](https://github.com/nerdnomerch/me) [![License](https://img.shields.io/badge/License-MIT-blue)](#license) [![issues - 3D Portfolio](https://img.shields.io/github/issues/nerdnomerch/me)](https://github.com/nerdnomerch/me/issues)
 
 This portfolio is based on my designs in [Dribble - Andi Nugroho](develop). You can also find the figma design there.
 
